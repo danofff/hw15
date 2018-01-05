@@ -15,10 +15,10 @@ namespace hw15
     {
         static void Main(string[] args)
         {
-            //task1();
-            //task2();
-            //task4();
-            //task5();
+            task1();
+            task2();
+            task4();
+            task5();
         }
 
         public static void task1()
